@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '39766'
     url: http://www.gutenberg.org/2009/agents/39766
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44483#BellefleurRoman-d-un-com-dien-au-XVIIe-si-cle
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-12-21'
 gutenberg_type: Text
